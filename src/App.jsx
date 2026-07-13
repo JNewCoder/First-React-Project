@@ -117,6 +117,7 @@ function App() {
 			<section id="spacer"></section>
 			<h2>Hello React!</h2>
 			<h2>Ini aplikasi React pertamaku.</h2>
+			<h2>Test pertama</h2>
 		</>
 	);
 }
